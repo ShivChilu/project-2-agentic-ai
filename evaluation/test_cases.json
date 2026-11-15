@@ -1,0 +1,102 @@
+[
+  {
+    "request_id": "R01",
+    "book_title": "Artificial Intelligence",
+    "requester": "CSE Department",
+    "price": "2500.00",
+    "category": "Computer Science",
+    "expected_decision": "BUY",
+    "expected_remaining_after": "17500.00",
+    "expected_reason_snippet": "Satisfies academic curriculum alignment, high circulation demand, and within available budget."
+  },
+  {
+    "request_id": "R02",
+    "book_title": "Data Structures",
+    "requester": "IT Department",
+    "price": "1800.00",
+    "category": "Computer Science",
+    "expected_decision": "BUY",
+    "expected_remaining_after": "15700.00",
+    "expected_reason_snippet": "Core undergraduate curriculum subject with high demand score and available budget."
+  },
+  {
+    "request_id": "R03",
+    "book_title": "Rare Academic Reference",
+    "requester": "Prof. H. Sharma",
+    "price": "3000.00",
+    "category": "Reference & Archives",
+    "expected_decision": "DEFER",
+    "expected_remaining_after": "15700.00",
+    "expected_reason_snippet": "Demand score is below required high-demand threshold for standard routine acquisition funds."
+  },
+  {
+    "request_id": "R04",
+    "book_title": "Existing Database Systems Duplicate",
+    "requester": "Student Council",
+    "price": "2200.00",
+    "category": "Computer Science",
+    "expected_decision": "REJECT",
+    "expected_remaining_after": "15700.00",
+    "expected_reason_snippet": "Confirmed duplicate copy restriction under policy CLAUSE-DUP-2.1; existing inventory present."
+  },
+  {
+    "request_id": "R05",
+    "book_title": "Cybersecurity Fundamentals",
+    "requester": "CSE Department",
+    "price": "4500.00",
+    "category": "Cybersecurity",
+    "expected_decision": "BUY",
+    "expected_remaining_after": "11200.00",
+    "expected_reason_snippet": "Critical information security curricular asset with verified high demand and sufficient funds."
+  },
+  {
+    "request_id": "R06",
+    "book_title": "Unrelated Cooking Collection",
+    "requester": "Campus Club",
+    "price": "1500.00",
+    "category": "Culinary Arts",
+    "expected_decision": "REJECT",
+    "expected_remaining_after": "11200.00",
+    "expected_reason_snippet": "Violates collection development scope under policy CLAUSE-EXCL-3.1; non-academic recreational leisure text."
+  },
+  {
+    "request_id": "R07",
+    "book_title": "Cloud Computing",
+    "requester": "Cloud Lab Coordinator",
+    "price": "6000.00",
+    "category": "Infrastructure & Cloud",
+    "expected_decision": "BUY",
+    "expected_remaining_after": "5200.00",
+    "expected_reason_snippet": "High priority infrastructure technology subject with high demand score and affordable budget balance."
+  },
+  {
+    "request_id": "R08",
+    "book_title": "Robotics Research",
+    "requester": "Robotics Society",
+    "price": "7000.00",
+    "category": "Robotics & Automation",
+    "expected_decision": "DEFER",
+    "expected_remaining_after": "5200.00",
+    "expected_reason_snippet": "High circulation demand demonstrated, but request price exceeds currently available remaining budget."
+  },
+  {
+    "request_id": "R09",
+    "book_title": "Python Programming",
+    "requester": "First Year Coordinator",
+    "price": "2000.00",
+    "category": "Software Engineering",
+    "expected_decision": "BUY",
+    "expected_remaining_after": "3200.00",
+    "expected_reason_snippet": "Standard foundational curriculum text with maximum demand score and fits remaining budget."
+  },
+  {
+    "request_id": "R10",
+    "book_title": "Advanced Quantum Computing",
+    "requester": "Physics & Computing Faculty",
+    "price": "5000.00",
+    "category": "Advanced Research",
+    "expected_decision": "DEFER",
+    "expected_remaining_after": "3200.00",
+    "expected_reason_snippet": "Specialized emergent field demonstrating medium demand score; deferred pending committee review."
+  }
+]
